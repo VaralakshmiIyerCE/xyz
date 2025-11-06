@@ -1,0 +1,1382 @@
+node_index:ID,node_name,:LABEL,node_source
+14151,Desogestrel,drug,DrugBank
+22585,Jaundice,effect__phenotype,HPO
+22421,Apraxia,effect__phenotype,HPO
+14270,Ethinylestradiol,drug,DrugBank
+33954,MIR127,gene__protein,NCBI
+22000,KL,gene__protein,NCBI
+37704,autoimmune disease of endocrine system,disease,MONDO
+14198,Clonidine,drug,DrugBank
+14222,Nateglinide,drug,DrugBank
+38127,inborn disorder of purine metabolism,disease,MONDO
+7110,GATA4,gene__protein,NCBI
+15779,Dorzolamide,drug,DrugBank
+15132,Hydrocodone,drug,DrugBank
+15079,Betaxolol,drug,DrugBank
+85599,Difficulty standing,effect__phenotype,HPO
+15986,Salsalate,drug,DrugBank
+14835,Benazepril,drug,DrugBank
+23023,Myoclonic seizure,effect__phenotype,HPO
+14900,Almotriptan,drug,DrugBank
+14369,Nebivolol,drug,DrugBank
+85256,Arthrogryposis multiplex congenita,effect__phenotype,HPO
+22727,Limitation of joint mobility,effect__phenotype,HPO
+35666,renal or urinary tract malformation,disease,MONDO_grouped
+22360,Epicanthus,effect__phenotype,HPO
+34775,MIR6803,gene__protein,NCBI
+14061,Diclofenac,drug,DrugBank
+93542,Breast aplasia,effect__phenotype,HPO
+85079,"Intellectual disability, profound",effect__phenotype,HPO
+33923,MIR140,gene__protein,NCBI
+30877,IDDM 1,disease,MONDO
+14274,Auranofin,drug,DrugBank
+85538,Exercise intolerance,effect__phenotype,HPO
+34056,MIR532,gene__protein,NCBI
+4468,CHRM2,gene__protein,NCBI
+22946,Abnormality of metabolism__homeostasis,effect__phenotype,HPO
+15836,Telmisartan,drug,DrugBank
+14880,Nicotine,drug,DrugBank
+3078,DDIT3,gene__protein,NCBI
+22385,Abnormality of retinal pigmentation,effect__phenotype,HPO
+25453,Patent ductus arteriosus,effect__phenotype,HPO
+6073,HNF1B,gene__protein,NCBI
+16532,Pirbuterol,drug,DrugBank
+35860,inborn mitochondrial myopathy,disease,MONDO
+24449,Constriction of peripheral visual field,effect__phenotype,HPO
+62031,Heptachlor,exposure,CTD
+85129,"Intellectual disability, moderate",effect__phenotype,HPO
+39784,"microcephaly, epilepsy, and diabetes syndrome",disease,MONDO
+20330,Dichlorophen,drug,DrugBank
+29117,muscular atrophy-ataxia-retinitis pigmentosa-diabetes mellitus syndrome,disease,MONDO
+14909,Nitrofural,drug,DrugBank
+6855,GPD2,gene__protein,NCBI
+90439,Epididymal cyst,effect__phenotype,HPO
+29938,"microcephaly, epilepsy, and diabetes syndrome 1",disease,MONDO
+1567,IL6,gene__protein,NCBI
+14783,Caffeine,drug,DrugBank
+9171,JAZF1,gene__protein,NCBI
+15783,Cyclizine,drug,DrugBank
+17950,Dulaglutide,drug,DrugBank
+25663,Abnormality of the nervous system,effect__phenotype,HPO
+3645,EDNRB,gene__protein,NCBI
+26702,Glucose intolerance,effect__phenotype,HPO
+7040,GCG,gene__protein,NCBI
+23875,Impaired glucose tolerance,effect__phenotype,HPO
+14595,Desmopressin,drug,DrugBank
+29113,diabetic ketoacidosis,disease,MONDO
+16588,Metformin,drug,DrugBank
+14999,Quetiapine,drug,DrugBank
+20338,Synthetic camphor,drug,DrugBank
+34261,PTF1A,gene__protein,NCBI
+1986,PTPN1,gene__protein,NCBI
+25526,Hyperglycemia,effect__phenotype,HPO
+38375,syndromic retinitis pigmentosa,disease,MONDO
+22951,Ketoacidosis,effect__phenotype,HPO
+90092,Overweight,effect__phenotype,HPO
+87649,Progressive proximal muscle weakness,effect__phenotype,HPO
+13709,CAPN10,gene__protein,NCBI
+15332,Insulin glulisine,drug,DrugBank
+14696,Pentamidine,drug,DrugBank
+61821,Vehicle Emissions,exposure,CTD
+34749,ZNF257,gene__protein,NCBI
+22133,Hypogonadism,effect__phenotype,HPO
+26545,Developmental regression,effect__phenotype,HPO
+14939,Indinavir,drug,DrugBank
+14784,Theophylline,drug,DrugBank
+19207,Carbidopa,drug,DrugBank
+38716,mitochondrial disease with eye involvement,disease,MONDO
+84863,Photosensitive myoclonic seizure,effect__phenotype,HPO
+88528,Hypovolemia,effect__phenotype,HPO
+14899,Sumatriptan,drug,DrugBank
+7820,MAT1A,gene__protein,NCBI
+5150,CDO1,gene__protein,NCBI
+27654,neonatal diabetes mellitus,disease,MONDO_grouped
+17258,Acrivastine,drug,DrugBank
+17233,Carbinoxamine,drug,DrugBank
+23458,Proximal muscle weakness,effect__phenotype,HPO
+22478,Growth delay,effect__phenotype,HPO
+22442,Dementia,effect__phenotype,HPO
+23368,Proteinuria,effect__phenotype,HPO
+14813,Troglitazone,drug,DrugBank
+3495,IFNG,gene__protein,NCBI
+61876,alachlor,exposure,CTD
+85029,Neonatal hypoglycemia,effect__phenotype,HPO
+89429,Moderate albuminuria,effect__phenotype,HPO
+84708,Personality changes,effect__phenotype,HPO
+14323,Aripiprazole,drug,DrugBank
+15501,Sitagliptin,drug,DrugBank
+23000,Seizure,effect__phenotype,HPO
+16443,Stanozolol,drug,DrugBank
+14884,Phenelzine,drug,DrugBank
+14940,Lidocaine,drug,DrugBank
+61912,bis(4-hydroxyphenyl)sulfone,exposure,CTD
+14814,Chlorotrianisene,drug,DrugBank
+14161,Olanzapine,drug,DrugBank
+14848,Terbutaline,drug,DrugBank
+16852,Naphazoline,drug,DrugBank
+84588,Short chin,effect__phenotype,HPO
+20432,Nandrolone,drug,DrugBank
+729,STAT3,gene__protein,NCBI
+99988,"neonatal diabetes, congenital sensorineural hearing loss and congenital cataracts",disease,MONDO
+22483,Insulin resistance,effect__phenotype,HPO
+15077,Bortezomib,drug,DrugBank
+5124,ITPR3,gene__protein,NCBI
+19222,Isocarboxazid,drug,DrugBank
+14210,Stavudine,drug,DrugBank
+15076,Esmolol,drug,DrugBank
+22703,Cerebellar hypoplasia,effect__phenotype,HPO
+61767,mono-(2-ethylhexyl)phthalate,exposure,CTD
+84359,Maternal diabetes,effect__phenotype,HPO
+16195,Glucosamine,drug,DrugBank
+89516,Profound global developmental delay,effect__phenotype,HPO
+7036,IL20,gene__protein,NCBI
+22863,Abnormality of exocrine pancreas physiology,effect__phenotype,HPO
+23759,Truncus arteriosus,effect__phenotype,HPO
+14943,Levonorgestrel,drug,DrugBank
+20218,Sodium citrate,drug,DrugBank
+10137,SCTR,gene__protein,NCBI
+62140,Strontium,exposure,CTD
+21981,MIR204,gene__protein,NCBI
+21961,SLC29A3,gene__protein,NCBI
+17309,Phendimetrazine,drug,DrugBank
+14585,Ammonia,drug,DrugBank
+84337,Sensory ataxia,effect__phenotype,HPO
+20305,Chlorphentermine,drug,DrugBank
+12992,AP3S2,gene__protein,NCBI
+31642,maternally-inherited diabetes and deafness,disease,MONDO
+62050,Iron,exposure,CTD
+15105,Carteolol,drug,DrugBank
+23236,Flexion contracture,effect__phenotype,HPO
+62153,Thallium,exposure,CTD
+84886,X-linked dominant inheritance,effect__phenotype,HPO
+85414,Elevated serum creatinine,effect__phenotype,HPO
+84461,Ureteropelvic junction obstruction,effect__phenotype,HPO
+34772,MIR3173,gene__protein,NCBI
+879,PSMD6,gene__protein,NCBI
+36376,endocrine pancreas disease,disease,MONDO
+61726,DDT,exposure,CTD
+14267,Isoniazid,drug,DrugBank
+7818,SNAP25,gene__protein,NCBI
+84487,Megacystis,effect__phenotype,HPO
+6598,PAX4,gene__protein,NCBI
+1705,PRKCQ,gene__protein,NCBI
+23531,Skeletal muscle atrophy,effect__phenotype,HPO
+61802,Polychlorinated Biphenyls,exposure,CTD
+14251,Tacrolimus,drug,DrugBank
+14603,Chlorpropamide,drug,DrugBank
+84513,Polycystic kidney dysplasia,effect__phenotype,HPO
+679,AIFM1,gene__protein,NCBI
+14383,Oxymetholone,drug,DrugBank
+85535,Hypouricemia,effect__phenotype,HPO
+34319,MIR1306,gene__protein,NCBI
+4941,IL1RN,gene__protein,NCBI
+84398,Gingival overgrowth,effect__phenotype,HPO
+85516,Babinski sign,effect__phenotype,HPO
+61800,Phthalic Acids,exposure,CTD
+36286,diabetic nephropathy,disease,MONDO
+15093,Clozapine,drug,DrugBank
+30988,Wolcott-Rallison syndrome,disease,MONDO
+33575,diabetes mellitus (disease),disease,MONDO
+5508,SLC2A4,gene__protein,NCBI
+23844,Hepatitis,effect__phenotype,HPO
+8765,MOK,gene__protein,NCBI
+14685,Progesterone,drug,DrugBank
+84654,Buphthalmos,effect__phenotype,HPO
+23841,Intestinal malrotation,effect__phenotype,HPO
+11560,NKX2-2,gene__protein,NCBI
+84173,prediabetes syndrome,disease,MONDO
+15320,Frovatriptan,drug,DrugBank
+28488,nephrogenic diabetes insipidus-intracranial calcification syndrome,disease,MONDO
+86030,Hypernatremic dehydration,effect__phenotype,HPO
+24300,Demyelinating peripheral neuropathy,effect__phenotype,HPO
+86932,Sensorimotor neuropathy,effect__phenotype,HPO
+14980,Metronidazole,drug,DrugBank
+15770,Glimepiride,drug,DrugBank
+14475,Semaglutide,drug,DrugBank
+34082,IL27,gene__protein,NCBI
+26085,Dolichocephaly,effect__phenotype,HPO
+3380,AKT2,gene__protein,NCBI
+14944,Amlodipine,drug,DrugBank
+61707,Arsenic,exposure,CTD
+24952,Abnormality of the kidney,effect__phenotype,HPO
+23172,Hyporeflexia,effect__phenotype,HPO
+14910,Pyrazinamide,drug,DrugBank
+7792,CYBA,gene__protein,NCBI
+15763,Benzocaine,drug,DrugBank
+16593,Tranexamic acid,drug,DrugBank
+13830,CMIP,gene__protein,NCBI
+85629,Eunuchoid habitus,effect__phenotype,HPO
+1592,HLA-DQA1,gene__protein,NCBI
+28384,hereditary chronic pancreatitis,disease,MONDO
+35496,multiple congenital anomalies__dysmorphic syndrome-intellectual disability,disease,MONDO
+1122,PPARA,gene__protein,NCBI
+4732,PAM,gene__protein,NCBI
+23296,Autoimmune antibody positivity,effect__phenotype,HPO
+62146,Tantalum,exposure,CTD
+20349,Methyl salicylate,drug,DrugBank
+14280,Glyburide,drug,DrugBank
+14924,Diazoxide,drug,DrugBank
+34223,MIR141,gene__protein,NCBI
+94794,lipoatrophic diabetes,disease,MONDO
+23499,Proportionate short stature,effect__phenotype,HPO
+3955,CYP1A2,gene__protein,NCBI
+989,PPARG,gene__protein,NCBI
+17494,Tesamorelin,drug,DrugBank
+9924,THADA,gene__protein,NCBI
+8385,SLC2A1,gene__protein,NCBI
+94147,Unilateral renal agenesis,effect__phenotype,HPO
+24262,Cerebral cortical atrophy,effect__phenotype,HPO
+25278,Atrophy of the spinal cord,effect__phenotype,HPO
+23462,Generalized hypotonia,effect__phenotype,HPO
+22392,Ophthalmoparesis,effect__phenotype,HPO
+92885,Elevated hemoglobin A1c,effect__phenotype,HPO
+26605,Ketonuria,effect__phenotype,HPO
+9323,CNKSR2,gene__protein,NCBI
+34341,MIR7704,gene__protein,NCBI
+13122,HSD11B2,gene__protein,NCBI
+7161,EDN1,gene__protein,NCBI
+35497,developmental anomaly of metabolic origin,disease,MONDO
+14112,Etretinate,drug,DrugBank
+17829,Lithium citrate,drug,DrugBank
+20418,Tobramycin,drug,DrugBank
+361,SOD1,gene__protein,NCBI
+15210,Mepyramine,drug,DrugBank
+90768,5-minute APGAR score of 1,effect__phenotype,HPO
+23303,Hyperlordosis,effect__phenotype,HPO
+12523,NKX6-1,gene__protein,NCBI
+97982,"lipoatrophy with diabetes, leukomelanodermic papules, liver steatosis, and hypertrophic cardiomyopathy",disease,MONDO
+20304,Salicylamide,drug,DrugBank
+88450,"Intellectual disability, severe",effect__phenotype,HPO
+34758,MIR27A,gene__protein,NCBI
+14308,Carvedilol,drug,DrugBank
+16063,Scopolamine,drug,DrugBank
+4323,BCL2L1,gene__protein,NCBI
+14235,Estradiol,drug,DrugBank
+14019,Betamethasone,drug,DrugBank
+14799,Insulin human,drug,DrugBank
+61948,Chromium,exposure,CTD
+4832,PROX1,gene__protein,NCBI
+61715,bisphenol A,exposure,CTD
+15539,Ixabepilone,drug,DrugBank
+6985,FGF21,gene__protein,NCBI
+17307,Diethylpropion,drug,DrugBank
+84581,Round face,effect__phenotype,HPO
+85003,Renal artery stenosis,effect__phenotype,HPO
+14668,Bumetanide,drug,DrugBank
+34322,MIR1260A,gene__protein,NCBI
+85349,Hyperphosphaturia,effect__phenotype,HPO
+11120,CAVIN1,gene__protein,NCBI
+28236,thiamine-responsive megaloblastic anemia syndrome,disease,MONDO
+4368,RNF6,gene__protein,NCBI
+85388,Ragged-red muscle fibers,effect__phenotype,HPO
+61749,Halogenated Diphenyl Ethers,exposure,CTD
+34300,MIR483,gene__protein,NCBI
+20157,Guaifenesin,drug,DrugBank
+15784,Gliquidone,drug,DrugBank
+61796,Pesticides,exposure,CTD
+4399,MTNR1B,gene__protein,NCBI
+14424,Methylene blue,drug,DrugBank
+61980,Dichlorvos,exposure,CTD
+14020,Fluticasone propionate,drug,DrugBank
+14317,Captopril,drug,DrugBank
+35439,inherited disease susceptibility,disease,MONDO
+14596,Eletriptan,drug,DrugBank
+16347,Ferrous fumarate,drug,DrugBank
+20417,Magnesium citrate,drug,DrugBank
+22908,Clinodactyly,effect__phenotype,HPO
+24294,Lower limb hyperreflexia,effect__phenotype,HPO
+88027,Simplified gyral pattern,effect__phenotype,HPO
+61955,Cobalt,exposure,CTD
+20296,Polyvinyl alcohol,drug,DrugBank
+20335,Racementhol,drug,DrugBank
+61708,Arsenicals,exposure,CTD
+84904,Large for gestational age,effect__phenotype,HPO
+22845,Atrial septal defect,effect__phenotype,HPO
+22419,Sparse hair,effect__phenotype,HPO
+1480,ADIPOQ,gene__protein,NCBI
+22788,Failure to thrive,effect__phenotype,HPO
+14255,Quinapril,drug,DrugBank
+22272,Hypotonia,effect__phenotype,HPO
+16570,Prilocaine,drug,DrugBank
+20293,Inositol,drug,DrugBank
+38540,syndrome with a cerebellar malformation as major feature,disease,MONDO
+3032,PLAGL1,gene__protein,NCBI
+14128,Ascorbic acid,drug,DrugBank
+23085,Focal motor seizure,effect__phenotype,HPO
+89056,Elevated circulating luteinizing hormone level,effect__phenotype,HPO
+25347,Febrile seizure (within the age range of 3 months to 6 years),effect__phenotype,HPO
+14643,Capsaicin,drug,DrugBank
+28482,congenital generalized lipodystrophy,disease,MONDO_grouped
+3170,NEUROD1,gene__protein,NCBI
+32446,nephrogenic diabetes insipidus,disease,MONDO
+61928,Carbofuran,exposure,CTD
+34345,MIR6741,gene__protein,NCBI
+20193,Pramocaine,drug,DrugBank
+2797,CAT,gene__protein,NCBI
+14131,Icosapent,drug,DrugBank
+14670,Drospirenone,drug,DrugBank
+86110,Cochlear degeneration,effect__phenotype,HPO
+15467,Ethynodiol diacetate,drug,DrugBank
+4435,CCND2,gene__protein,NCBI
+14476,Testosterone cypionate,drug,DrugBank
+84167,gestational diabetes,disease,MONDO
+34332,MIR4516,gene__protein,NCBI
+25481,Abnormality of the posterior pituitary,effect__phenotype,HPO
+5438,CCR5,gene__protein,NCBI
+62101,perfluoroheptanoic acid,exposure,CTD
+9194,KSR2,gene__protein,NCBI
+61970,delta-hexachlorocyclohexane,exposure,CTD
+4184,CP,gene__protein,NCBI
+14975,Sirolimus,drug,DrugBank
+62010,fenoprop,exposure,CTD
+84563,Wide anterior fontanel,effect__phenotype,HPO
+24199,Hepatomegaly,effect__phenotype,HPO
+15885,Inositol nicotinate,drug,DrugBank
+34761,MIR339,gene__protein,NCBI
+38277,inherited Fanconi renotubular syndrome,disease,MONDO
+14282,Irbesartan,drug,DrugBank
+84483,Multicystic kidney dysplasia,effect__phenotype,HPO
+22953,Hypoglycemia,effect__phenotype,HPO
+9207,EDNRA,gene__protein,NCBI
+84820,Macular coloboma,effect__phenotype,HPO
+22676,Hypertonia,effect__phenotype,HPO
+22530,Cholestasis,effect__phenotype,HPO
+24150,Hypoplasia of teeth,effect__phenotype,HPO
+31103,permanent neonatal diabetes mellitus-pancreatic and cerebellar agenesis syndrome,disease,MONDO
+85235,Downturned corners of mouth,effect__phenotype,HPO
+86041,Abnormal oral glucose tolerance,effect__phenotype,HPO
+14060,Levothyroxine,drug,DrugBank
+16065,Tropicamide,drug,DrugBank
+23355,Contractures of the joints of the lower limbs,effect__phenotype,HPO
+85868,Sagittal craniosynostosis,effect__phenotype,HPO
+22577,Flushing,effect__phenotype,HPO
+23,DNAJC3,gene__protein,NCBI
+14481,Estradiol cypionate,drug,DrugBank
+4959,SOD2,gene__protein,NCBI
+22734,Hepatic steatosis,effect__phenotype,HPO
+14249,Pseudoephedrine,drug,DrugBank
+15064,Mometasone furoate,drug,DrugBank
+84615,Underdeveloped nasal alae,effect__phenotype,HPO
+35690,syndromic disease,disease,MONDO
+62162,Trichlorfon,exposure,CTD
+34264,MIRLET7D,gene__protein,NCBI
+14266,Fexofenadine,drug,DrugBank
+27788,familial partial lipodystrophy,disease,MONDO_grouped
+14286,Rifampicin,drug,DrugBank
+61961,Coumaphos,exposure,CTD
+61819,Uranium,exposure,CTD
+84840,Single umbilical artery,effect__phenotype,HPO
+279,HNF4A,gene__protein,NCBI
+3802,APPL1,gene__protein,NCBI
+88755,Gastrostomy tube feeding in infancy,effect__phenotype,HPO
+34317,MIR1249,gene__protein,NCBI
+33967,MIR409,gene__protein,NCBI
+23457,Peripheral axonal neuropathy,effect__phenotype,HPO
+36650,nephropathy secondary to a storage or other metabolic disease,disease,MONDO
+7124,GCK,gene__protein,NCBI
+14993,Phenobarbital,drug,DrugBank
+10012,CDKAL1,gene__protein,NCBI
+61850,"2,4-Dichlorophenoxyacetic Acid",exposure,CTD
+4271,NEUROG3,gene__protein,NCBI
+33941,MIR885,gene__protein,NCBI
+85972,Hypoplasia of right ventricle,effect__phenotype,HPO
+15785,Glisoxepide,drug,DrugBank
+34229,MIR221,gene__protein,NCBI
+23165,Aplasia__Hypoplasia of the pancreas,effect__phenotype,HPO
+84379,Hypsarrhythmia,effect__phenotype,HPO
+86568,Reduced pancreatic beta cells,effect__phenotype,HPO
+61913,Boron,exposure,CTD
+84695,Depressivity,effect__phenotype,HPO
+61771,mono-isobutyl phthalate,exposure,CTD
+15507,Mestranol,drug,DrugBank
+99665,odontochondrodysplasia 2 with hearing loss and diabetes,disease,MONDO
+61724,Copper,exposure,CTD
+14336,Ephedrine,drug,DrugBank
+14033,Fluocinonide,drug,DrugBank
+14196,Propranolol,drug,DrugBank
+61750,Hexachlorobenzene,exposure,CTD
+15598,Linagliptin,drug,DrugBank
+84903,Small for gestational age,effect__phenotype,HPO
+24248,Areflexia of lower limbs,effect__phenotype,HPO
+88655,Slender toe,effect__phenotype,HPO
+91382,Increased waist to hip ratio,effect__phenotype,HPO
+4295,BCL2L11,gene__protein,NCBI
+3192,HMOX1,gene__protein,NCBI
+14340,Magnesium salicylate,drug,DrugBank
+33868,MIR432,gene__protein,NCBI
+22708,Generalized myoclonic seizure,effect__phenotype,HPO
+28576,atherosclerosis-deafness-diabetes-epilepsy-nephropathy syndrome,disease,MONDO
+61779,"o,p'-DDT",exposure,CTD
+8378,COL12A1,gene__protein,NCBI
+85012,Diabetic ketoacidosis,effect__phenotype,HPO
+84345,Thin upper lip vermilion,effect__phenotype,HPO
+7801,NOS1,gene__protein,NCBI
+14193,Hydroxyzine,drug,DrugBank
+61717,Cadmium,exposure,CTD
+8857,IAPP,gene__protein,NCBI
+38379,muscular lipidosis,disease,MONDO
+15013,Saxagliptin,drug,DrugBank
+23203,High palate,effect__phenotype,HPO
+9254,AUTS2,gene__protein,NCBI
+22511,Pectus carinatum,effect__phenotype,HPO
+6848,GPX1,gene__protein,NCBI
+94185,Bilateral sensorineural hearing impairment,effect__phenotype,HPO
+62008,"Fatty Acids, Omega-3",exposure,CTD
+23937,Joint stiffness,effect__phenotype,HPO
+14733,Levomefolic acid,drug,DrugBank
+61757,Lead,exposure,CTD
+18314,Benzoic acid,drug,DrugBank
+22124,Recurrent infections,effect__phenotype,HPO
+14957,Fenfluramine,drug,DrugBank
+89097,Hepatocellular adenoma,effect__phenotype,HPO
+6574,NFATC2,gene__protein,NCBI
+22718,Arthritis,effect__phenotype,HPO
+8021,HLA-DRB5,gene__protein,NCBI
+14691,Amiloride,drug,DrugBank
+7107,AGPAT2,gene__protein,NCBI
+90683,Reduced C-peptide level,effect__phenotype,HPO
+22837,Hypertrophic cardiomyopathy,effect__phenotype,HPO
+24974,Diabetes insipidus,effect__phenotype,HPO
+14141,Phenytoin,drug,DrugBank
+11179,SLC1A2,gene__protein,NCBI
+15556,Noscapine,drug,DrugBank
+489,CAV1,gene__protein,NCBI
+84441,Hypernatremia,effect__phenotype,HPO
+15130,Tipranavir,drug,DrugBank
+20517,Ipragliflozin,drug,DrugBank
+7083,HLA-DRB1,gene__protein,NCBI
+14806,Entacapone,drug,DrugBank
+13642,TMEM18,gene__protein,NCBI
+22684,Abnormal cerebellum morphology,effect__phenotype,HPO
+88346,Enuresis nocturna,effect__phenotype,HPO
+2029,ATP2A3,gene__protein,NCBI
+15322,Norfloxacin,drug,DrugBank
+20129,Chlordiazepoxide,drug,DrugBank
+20298,Potassium citrate,drug,DrugBank
+2930,ID1,gene__protein,NCBI
+11431,MRAS,gene__protein,NCBI
+84639,Downslanted palpebral fissures,effect__phenotype,HPO
+29336,"diabetes insipidus, nephrogenic, autosomal",disease,MONDO
+62129,Rubidium,exposure,CTD
+125,EGFR,gene__protein,NCBI
+20516,Trelagliptin,drug,DrugBank
+35480,inherited neurodegenerative disorder,disease,MONDO
+84527,Narrow mouth,effect__phenotype,HPO
+84853,Excessive daytime somnolence,effect__phenotype,HPO
+14208,Testosterone,drug,DrugBank
+89457,Cerebellar agenesis,effect__phenotype,HPO
+27653,permanent neonatal diabetes mellitus,disease,MONDO_grouped
+24157,Increased number of teeth,effect__phenotype,HPO
+15260,Dexchlorpheniramine,drug,DrugBank
+22153,Abnormality of the upper urinary tract,effect__phenotype,HPO
+9459,LIPC,gene__protein,NCBI
+20514,Tofogliflozin,drug,DrugBank
+23993,Hypoplasia of the maxilla,effect__phenotype,HPO
+6347,MAPK8IP1,gene__protein,NCBI
+84476,Prominent metopic ridge,effect__phenotype,HPO
+13354,FAM234A,gene__protein,NCBI
+22319,Anteverted nares,effect__phenotype,HPO
+34228,MIR214,gene__protein,NCBI
+23379,Abnormality of alkaline phosphatase level,effect__phenotype,HPO
+24001,Cerebral calcification,effect__phenotype,HPO
+16580,Histrelin,drug,DrugBank
+34760,MIR151A,gene__protein,NCBI
+62171,Tungsten,exposure,CTD
+26050,Macular dystrophy,effect__phenotype,HPO
+24249,Hypoplasia of the corpus callosum,effect__phenotype,HPO
+84684,Carious teeth,effect__phenotype,HPO
+16220,Dinoprostone,drug,DrugBank
+16792,Methazolamide,drug,DrugBank
+26968,Optic nerve hypoplasia,effect__phenotype,HPO
+33489,insulin-resistance syndrome,disease,MONDO_grouped
+32642,autosomal semi-dominant severe lipodystrophic laminopathy,disease,MONDO
+17832,Acarbose,drug,DrugBank
+84593,Narrow forehead,effect__phenotype,HPO
+61914,Bromine,exposure,CTD
+90219,Tip-toe gait,effect__phenotype,HPO
+14202,Labetalol,drug,DrugBank
+12663,SLC11A1,gene__protein,NCBI
+14809,Methyldopa,drug,DrugBank
+14387,Methyltestosterone,drug,DrugBank
+31234,myopathy and diabetes mellitus,disease,MONDO
+85118,Athetosis,effect__phenotype,HPO
+22793,Abnormal abdomen morphology,effect__phenotype,HPO
+14762,Bendroflumethiazide,drug,DrugBank
+7958,BACH2,gene__protein,NCBI
+1107,HMG20A,gene__protein,NCBI
+28208,type 2 diabetes mellitus,disease,MONDO
+2387,SHBG,gene__protein,NCBI
+22911,Deviation of the 5th toe,effect__phenotype,HPO
+22736,Hepatic fibrosis,effect__phenotype,HPO
+94392,Primary microcephaly,effect__phenotype,HPO
+17951,Lixisenatide,drug,DrugBank
+97070,type 1 diabetes nephropathy,disease,MONDO
+24276,Unsteady gait,effect__phenotype,HPO
+62097,Parathion,exposure,CTD
+12120,PON1,gene__protein,NCBI
+87386,Decreased activity of mitochondrial complex IV,effect__phenotype,HPO
+17308,Guanethidine,drug,DrugBank
+61687,"2,4,4',5-tetrachlorobiphenyl",exposure,CTD
+88326,Anterior pituitary agenesis,effect__phenotype,HPO
+15428,Bexarotene,drug,DrugBank
+86965,Severe demyelination of the white matter,effect__phenotype,HPO
+23101,Tremor,effect__phenotype,HPO
+34771,MIR2116,gene__protein,NCBI
+89331,Delayed social development,effect__phenotype,HPO
+16354,Deserpidine,drug,DrugBank
+25447,Congenital defect of the pericardium,effect__phenotype,HPO
+14271,Isotretinoin,drug,DrugBank
+15143,Bicalutamide,drug,DrugBank
+84421,Polydipsia,effect__phenotype,HPO
+8396,GP2,gene__protein,NCBI
+14942,Terfenadine,drug,DrugBank
+22,FOS,gene__protein,NCBI
+35251,HYMAI,gene__protein,NCBI
+62013,Flame Retardants,exposure,CTD
+5517,SFRP4,gene__protein,NCBI
+17232,Triprolidine,drug,DrugBank
+15111,Dexmedetomidine,drug,DrugBank
+61847,"2,4,5,2',4',5'-hexachlorobiphenyl",exposure,CTD
+33727,Coma,effect__phenotype,HPO
+22380,Visual impairment,effect__phenotype,HPO
+23266,Apnea,effect__phenotype,HPO
+25455,Tetralogy of Fallot,effect__phenotype,HPO
+85040,Anorexia,effect__phenotype,HPO
+62137,Silver,exposure,CTD
+14028,Hydrocortisone,drug,DrugBank
+21967,MIR192,gene__protein,NCBI
+84574,Low anterior hairline,effect__phenotype,HPO
+2843,HK1,gene__protein,NCBI
+61722,Chlorpyrifos,exposure,CTD
+16687,Fosinopril,drug,DrugBank
+15849,Brimonidine,drug,DrugBank
+34774,MIR8061,gene__protein,NCBI
+25655,Delayed puberty,effect__phenotype,HPO
+84888,Mitochondrial inheritance,effect__phenotype,HPO
+3471,ENPP1,gene__protein,NCBI
+22447,Anxiety,effect__phenotype,HPO
+15298,Streptozocin,drug,DrugBank
+84905,Death in infancy,effect__phenotype,HPO
+22397,Aplasia__Hypoplasia of the optic nerve,effect__phenotype,HPO
+14176,Fluoxetine,drug,DrugBank
+23545,Myoclonus,effect__phenotype,HPO
+84681,Synophrys,effect__phenotype,HPO
+2889,TGFB1,gene__protein,NCBI
+16851,Xylometazoline,drug,DrugBank
+23869,Hypertonic dehydration,effect__phenotype,HPO
+18036,Bacitracin,drug,DrugBank
+38797,syndromic neurometabolic disease with X-linked intellectual disability,disease,MONDO
+22970,Ketosis,effect__phenotype,HPO
+14807,Epinephrine,drug,DrugBank
+22289,Abnormality of the pinna,effect__phenotype,HPO
+1228,FTO,gene__protein,NCBI
+35512,congenital nervous system disorder,disease,MONDO
+20519,Anagliptin,drug,DrugBank
+29562,intellectual disability-dysmorphism-hypogonadism-diabetes mellitus syndrome,disease,MONDO
+24516,Nephrocalcinosis,effect__phenotype,HPO
+14127,Octreotide,drug,DrugBank
+86949,Cerebral artery atherosclerosis,effect__phenotype,HPO
+30145,Alstrom syndrome,disease,MONDO
+14851,Cyclopentolate,drug,DrugBank
+27812,DEND syndrome,disease,MONDO
+62078,Molybdenum,exposure,CTD
+5898,JADE2,gene__protein,NCBI
+85197,Pancreatic hypoplasia,effect__phenotype,HPO
+22036,CISD2,gene__protein,NCBI
+14158,Indomethacin,drug,DrugBank
+24319,External ophthalmoplegia,effect__phenotype,HPO
+15171,Dihydrocodeine,drug,DrugBank
+16788,Methyclothiazide,drug,DrugBank
+22304,Hearing impairment,effect__phenotype,HPO
+31180,AREDYLD syndrome,disease,MONDO
+4817,NOTCH2,gene__protein,NCBI
+62021,Gadolinium,exposure,CTD
+97071,type 2 diabetes nephropathy,disease,MONDO
+13097,ACE,gene__protein,NCBI
+85558,Congenital onset,effect__phenotype,HPO
+13257,ABCC8,gene__protein,NCBI
+89606,Absent vas deferens,effect__phenotype,HPO
+16268,Fenofibric acid,drug,DrugBank
+6453,SIRT1,gene__protein,NCBI
+15546,Indacaterol,drug,DrugBank
+25274,Interictal epileptiform activity,effect__phenotype,HPO
+2329,TNF,gene__protein,NCBI
+38009,genetic lipodystrophy,disease,MONDO
+3014,SLC30A8,gene__protein,NCBI
+12881,PTPN22,gene__protein,NCBI
+6428,TYK2,gene__protein,NCBI
+90438,Splenic cyst,effect__phenotype,HPO
+61785,Particulate Matter,exposure,CTD
+14166,Acetohexamide,drug,DrugBank
+20362,Magnesium oxide,drug,DrugBank
+23360,Abnormal circulating lipid concentration,effect__phenotype,HPO
+20294,Phenyltoloxamine,drug,DrugBank
+23756,Abnormal mitral valve morphology,effect__phenotype,HPO
+88415,Tented upper lip vermilion,effect__phenotype,HPO
+2429,BCL2,gene__protein,NCBI
+99349,diabetes persistent mullerian ducts,disease,MONDO
+15466,Acetazolamide,drug,DrugBank
+34055,MIR33B,gene__protein,NCBI
+35639,pregnancy disorder,disease,MONDO
+6684,CLEC16A,gene__protein,NCBI
+8154,EIF2AK3,gene__protein,NCBI
+87660,Aplasia of the left hemidiaphragm,effect__phenotype,HPO
+14713,Decitabine,drug,DrugBank
+14560,Ergocalciferol,drug,DrugBank
+194,PRKCB,gene__protein,NCBI
+566,PRKCA,gene__protein,NCBI
+62017,Fonofos,exposure,CTD
+87974,Papillary cystadenoma of the epididymis,effect__phenotype,HPO
+99213,cardiomyopathy diabetes deafness,disease,MONDO
+61964,cyanazine,exposure,CTD
+61729,Dichlorodiphenyl Dichloroethylene,exposure,CTD
+3910,ITGA1,gene__protein,NCBI
+16572,Leuprolide,drug,DrugBank
+31248,odontochondrodysplasia,disease,MONDO_grouped
+23864,Respiratory distress,effect__phenotype,HPO
+16795,Diclofenamide,drug,DrugBank
+61838,"2,2',3,3',4,4',5-heptachlorobiphenyl",exposure,CTD
+23536,Reduced subcutaneous adipose tissue,effect__phenotype,HPO
+31864,lipodystrophy,disease,MONDO_grouped
+22977,Nausea and vomiting,effect__phenotype,HPO
+35432,Mendelian disease,disease,MONDO
+24143,Splenomegaly,effect__phenotype,HPO
+16690,Lisinopril,drug,DrugBank
+16581,Triptorelin,drug,DrugBank
+9480,ZFAND3,gene__protein,NCBI
+34753,C2CD4B,gene__protein,NCBI
+14269,Methylprednisolone,drug,DrugBank
+15590,Lurasidone,drug,DrugBank
+85621,Skeletal myopathy,effect__phenotype,HPO
+25441,Interrupted aortic arch,effect__phenotype,HPO
+62148,terbufos,exposure,CTD
+17378,Guaiacol,drug,DrugBank
+23834,Coronary artery atherosclerosis,effect__phenotype,HPO
+84298,dipsogenic diabetes insipidus,disease,MONDO
+14678,Folic acid,drug,DrugBank
+6907,ECE1,gene__protein,NCBI
+6773,TBC1D4,gene__protein,NCBI
+9128,IL13RA1,gene__protein,NCBI
+22323,Muscle weakness,effect__phenotype,HPO
+4019,PEPD,gene__protein,NCBI
+34764,MIR628,gene__protein,NCBI
+27346,maturity-onset diabetes of the young,disease,MONDO_grouped
+17256,Chlorcyclizine,drug,DrugBank
+8914,NUS1,gene__protein,NCBI
+84477,Irritability,effect__phenotype,HPO
+24179,Abnormality of endocrine pancreas physiology,effect__phenotype,HPO
+90319,Slow pupillary light response,effect__phenotype,HPO
+26194,Abnormality of body mass index,effect__phenotype,HPO
+61923,Calcium,exposure,CTD
+7937,AVPR2,gene__protein,NCBI
+85367,Hyposthenuria,effect__phenotype,HPO
+17238,Dimenhydrinate,drug,DrugBank
+25639,Pelvic girdle muscle weakness,effect__phenotype,HPO
+16490,Pheniramine,drug,DrugBank
+14256,Didanosine,drug,DrugBank
+15088,Bupivacaine,drug,DrugBank
+14024,Prednisone,drug,DrugBank
+22118,Renal cyst,effect__phenotype,HPO
+20314,Polyethylene glycol 3500,drug,DrugBank
+14483,Estradiol valerate,drug,DrugBank
+94223,Perimembranous ventricular septal defect,effect__phenotype,HPO
+14217,Furosemide,drug,DrugBank
+15179,Nicotinamide,drug,DrugBank
+94251,Central sleep apnea,effect__phenotype,HPO
+14042,Hydrocortisone acetate,drug,DrugBank
+24642,Muscular hypotonia of the trunk,effect__phenotype,HPO
+87232,Undetectable visual evoked potentials,effect__phenotype,HPO
+15373,Lobeglitazone,drug,DrugBank
+85504,EMG: myopathic abnormalities,effect__phenotype,HPO
+84729,Congenital hypothyroidism,effect__phenotype,HPO
+26432,Bilateral tonic-clonic seizure with focal onset,effect__phenotype,HPO
+15326,Ofloxacin,drug,DrugBank
+36807,pituitary gland disease,disease,MONDO
+24310,Spastic paraparesis,effect__phenotype,HPO
+34081,RFX6,gene__protein,NCBI
+14551,Canagliflozin,drug,DrugBank
+14017,Fluorometholone,drug,DrugBank
+15102,Sotalol,drug,DrugBank
+22716,Facial palsy,effect__phenotype,HPO
+33926,MIR215,gene__protein,NCBI
+3887,CD69,gene__protein,NCBI
+30777,juvenile-onset diabetes mellitus-central and peripheral neurodegeneration syndrome,disease,MONDO
+10696,MNX1,gene__protein,NCBI
+22484,Hypothyroidism,effect__phenotype,HPO
+20321,Methscopolamine,drug,DrugBank
+24582,Nephrotic syndrome,effect__phenotype,HPO
+34748,ADAMTS9,gene__protein,NCBI
+14287,Ibuprofen,drug,DrugBank
+87067,Mottled pigmentation of photoexposed areas,effect__phenotype,HPO
+61768,mono-benzyl phthalate,exposure,CTD
+14321,Levodopa,drug,DrugBank
+14032,Clobetasol propionate,drug,DrugBank
+14221,Norethisterone,drug,DrugBank
+15006,Iloperidone,drug,DrugBank
+84460,Prolonged neonatal jaundice,effect__phenotype,HPO
+90815,Atretic vas deferens,effect__phenotype,HPO
+84931,High pitched voice,effect__phenotype,HPO
+17341,Tetryzoline,drug,DrugBank
+14800,Norelgestromin,drug,DrugBank
+61896,aroclor 1260,exposure,CTD
+12320,PPP1R3A,gene__protein,NCBI
+28382,Rabson-Mendenhall syndrome,disease,MONDO
+14319,Saquinavir,drug,DrugBank
+99386,ectodermal dysplasia arthrogryposis diabetes mellitus,disease,MONDO
+14589,Polyethylene glycol 400,drug,DrugBank
+14293,Glipizide,drug,DrugBank
+15198,Alogliptin,drug,DrugBank
+13398,ITLN1,gene__protein,NCBI
+8531,CTSH,gene__protein,NCBI
+87117,Blotching pigmentation of the skin,effect__phenotype,HPO
+94136,Type I diabetes mellitus,effect__phenotype,HPO
+14207,Imatinib,drug,DrugBank
+93440,Pollakisuria,effect__phenotype,HPO
+10746,IGF2BP2,gene__protein,NCBI
+14380,Asenapine,drug,DrugBank
+22824,Cardiomyopathy,effect__phenotype,HPO
+11419,TIMP1,gene__protein,NCBI
+14961,Simvastatin,drug,DrugBank
+5720,IGF1,gene__protein,NCBI
+24652,Congenital diaphragmatic hernia,effect__phenotype,HPO
+2579,CTLA4,gene__protein,NCBI
+22472,Nephrolithiasis,effect__phenotype,HPO
+32075,Woodhouse-Sakati syndrome,disease,MONDO
+18959,Vorinostat,drug,DrugBank
+4757,GNB3,gene__protein,NCBI
+61793,perfluorooctane sulfonic acid,exposure,CTD
+25201,Vertigo,effect__phenotype,HPO
+61760,Mercury,exposure,CTD
+61825,Zinc,exposure,CTD
+2148,TNFRSF1B,gene__protein,NCBI
+16217,Serine,drug,DrugBank
+1198,PDX1,gene__protein,NCBI
+61848,"2,4,5-Trichlorophenoxyacetic Acid",exposure,CTD
+14605,Candesartan cilexetil,drug,DrugBank
+22474,Abnormality of the urinary system,effect__phenotype,HPO
+7688,HNF1A,gene__protein,NCBI
+84344,Long philtrum,effect__phenotype,HPO
+88844,Total absence of the pericardium,effect__phenotype,HPO
+8428,SH2B3,gene__protein,NCBI
+27202,cataract,disease,MONDO_grouped
+61820,Vanadium,exposure,CTD
+14326,Darunavir,drug,DrugBank
+62166,Triclosan,exposure,CTD
+14530,Stanolone,drug,DrugBank
+84906,Severe failure to thrive,effect__phenotype,HPO
+61791,perfluorododecanoic acid,exposure,CTD
+17231,Dexbrompheniramine,drug,DrugBank
+85027,Renal Fanconi syndrome,effect__phenotype,HPO
+84858,Spastic tetraparesis,effect__phenotype,HPO
+38106,syndromic urogenital tract malformation,disease,MONDO
+14162,Atenolol,drug,DrugBank
+14132,Pyridoxine,drug,DrugBank
+23793,Choanal atresia,effect__phenotype,HPO
+34221,MIR126,gene__protein,NCBI
+14238,Naproxen,drug,DrugBank
+34289,MIR335,gene__protein,NCBI
+22109,TRNL1,gene__protein,NCBI
+12020,EIF2S3,gene__protein,NCBI
+14303,Gliclazide,drug,DrugBank
+9049,ZC3HC1,gene__protein,NCBI
+84367,Astrocytosis,effect__phenotype,HPO
+388,BLK,gene__protein,NCBI
+23472,Thoracolumbar scoliosis,effect__phenotype,HPO
+24611,Feeding difficulties,effect__phenotype,HPO
+97941,laminopathy type Decaudain-Vigouroux,disease,MONDO
+2712,CASP3,gene__protein,NCBI
+20422,Meclocycline,drug,DrugBank
+10248,MAEA,gene__protein,NCBI
+20340,Ethionamide,drug,DrugBank
+14259,Repaglinide,drug,DrugBank
+62034,hexabrominated diphenyl ether 153,exposure,CTD
+22784,Decreased body weight,effect__phenotype,HPO
+20254,Polyethylene glycol,drug,DrugBank
+30917,retinal cone dystrophy,disease,MONDO_grouped
+34268,MIR130B,gene__protein,NCBI
+61711,Atrazine,exposure,CTD
+17833,Voglibose,drug,DrugBank
+27724,X-linked intellectual disability-limb spasticity-retinal dystrophy-diabetes insipidus syndrome,disease,MONDO
+14229,Tretinoin,drug,DrugBank
+22859,Congestive heart failure,effect__phenotype,HPO
+6901,LEPR,gene__protein,NCBI
+34558,MIR92B,gene__protein,NCBI
+84516,Hydronephrosis,effect__phenotype,HPO
+32983,short fifth metacarpals-insulin resistance syndrome,disease,MONDO
+8277,HLA-DQB1,gene__protein,NCBI
+14199,Sulfamethizole,drug,DrugBank
+86198,Depressed nasal bridge,effect__phenotype,HPO
+20302,Potassium Iodide,drug,DrugBank
+38389,familial cystic renal disease,disease,MONDO
+15621,Dienogest,drug,DrugBank
+28552,type 1 diabetes mellitus,disease,MONDO_grouped
+84364,Polyuria,effect__phenotype,HPO
+84952,Exocrine pancreatic insufficiency,effect__phenotype,HPO
+62132,Selenium,exposure,CTD
+2400,FAS,gene__protein,NCBI
+22699,Ataxia,effect__phenotype,HPO
+61813,Tetrachlorodibenzodioxin,exposure,CTD
+15801,Carbutamide,drug,DrugBank
+29462,pancreatic beta cell agenesis with neonatal diabetes mellitus,disease,MONDO
+23157,Vomiting,effect__phenotype,HPO
+85384,Cleft ala nasi,effect__phenotype,HPO
+61996,docosapentaenoic acid,exposure,CTD
+22291,Low-set ears,effect__phenotype,HPO
+15156,Metipranolol,drug,DrugBank
+24475,Elevated hepatic transaminase,effect__phenotype,HPO
+85134,Frequent falls,effect__phenotype,HPO
+34318,MIR1307,gene__protein,NCBI
+24309,Bilateral tonic-clonic seizure,effect__phenotype,HPO
+61901,Barium,exposure,CTD
+16376,Quinestrol,drug,DrugBank
+23150,Areflexia,effect__phenotype,HPO
+20313,Polyethylene glycol 300,drug,DrugBank
+17306,Phenmetrazine,drug,DrugBank
+35464,genetic nervous system disorder,disease,MONDO
+15435,Megestrol acetate,drug,DrugBank
+15283,Insulin glargine,drug,DrugBank
+15003,Cortisone acetate,drug,DrugBank
+24281,Gliosis,effect__phenotype,HPO
+14669,Bromfenac,drug,DrugBank
+34770,MIR1908,gene__protein,NCBI
+20290,"Sodium phosphate, monobasic",drug,DrugBank
+4214,VPS26A,gene__protein,NCBI
+92884,Hypoinsulinemia,effect__phenotype,HPO
+61880,alpha-hexachlorocyclohexane,exposure,CTD
+14237,Acyclovir,drug,DrugBank
+24022,Proximal tubulopathy,effect__phenotype,HPO
+22466,Hernia,effect__phenotype,HPO
+15500,Desonide,drug,DrugBank
+21992,KLF14,gene__protein,NCBI
+34327,MIR1260B,gene__protein,NCBI
+87341,Elevated circulating follicle stimulating hormone level,effect__phenotype,HPO
+35233,TRNK,gene__protein,NCBI
+14938,Reserpine,drug,DrugBank
+25637,Optic disc pallor,effect__phenotype,HPO
+94356,Intermittent diarrhea,effect__phenotype,HPO
+14168,Spironolactone,drug,DrugBank
+16793,Chlorothiazide,drug,DrugBank
+16468,Goserelin,drug,DrugBank
+15119,Tranylcypromine,drug,DrugBank
+9923,EPC2,gene__protein,NCBI
+30896,neonatal diabetes mellitus with congenital hypothyroidism,disease,MONDO
+28294,neurohypophyseal diabetes insipidus,disease,MONDO
+19699,Dinoprost,drug,DrugBank
+8489,GATA6,gene__protein,NCBI
+14242,Meloxicam,drug,DrugBank
+14240,Indapamide,drug,DrugBank
+447,GLP1R,gene__protein,NCBI
+34227,MIR205,gene__protein,NCBI
+20148,Synephrine,drug,DrugBank
+10654,ADCY5,gene__protein,NCBI
+24484,Elevated serum creatine kinase,effect__phenotype,HPO
+91084,Colon perforation,effect__phenotype,HPO
+84587,Triangular face,effect__phenotype,HPO
+2408,CBS,gene__protein,NCBI
+14346,Lopinavir,drug,DrugBank
+4968,ICAM1,gene__protein,NCBI
+16210,Eprosartan,drug,DrugBank
+62064,"Metals, Heavy",exposure,CTD
+14268,Norgestimate,drug,DrugBank
+23527,Pelvic girdle muscle atrophy,effect__phenotype,HPO
+38790,X-linked disease,disease,MONDO
+84661,Blue sclerae,effect__phenotype,HPO
+14751,Zinc sulfate,drug,DrugBank
+16867,Demeclocycline,drug,DrugBank
+22949,Alkalosis,effect__phenotype,HPO
+22395,Retinal degeneration,effect__phenotype,HPO
+35445,syndromic intellectual disability,disease,MONDO
+7910,GCGR,gene__protein,NCBI
+17148,Metolazone,drug,DrugBank
+92873,Mild microcephaly,effect__phenotype,HPO
+15829,Fingolimod,drug,DrugBank
+61937,Chlordan,exposure,CTD
+62025,Gold,exposure,CTD
+6729,PPARGC1A,gene__protein,NCBI
+38397,epilepsy syndrome,disease,MONDO
+90016,Dorsocervical fat pad,effect__phenotype,HPO
+24431,Bilateral ptosis,effect__phenotype,HPO
+15769,Valsartan,drug,DrugBank
+93622,Down-sloping shoulders,effect__phenotype,HPO
+9366,PLEKHA1,gene__protein,NCBI
+22746,X-linked inheritance,effect__phenotype,HPO
+84505,Hydroureter,effect__phenotype,HPO
+22488,Short stature,effect__phenotype,HPO
+8556,EPO,gene__protein,NCBI
+14276,Hydrochlorothiazide,drug,DrugBank
+17252,Antazoline,drug,DrugBank
+95076,"diabetes mellitus, noninsulin-dependent",disease,MONDO_grouped
+84938,Secundum atrial septal defect,effect__phenotype,HPO
+61786,PCB 180,exposure,CTD
+84852,"Intellectual disability, mild",effect__phenotype,HPO
+15868,Isoprenaline,drug,DrugBank
+7123,ATP2A2,gene__protein,NCBI
+15151,Dexfenfluramine,drug,DrugBank
+22628,Slender finger,effect__phenotype,HPO
+15417,Phentermine,drug,DrugBank
+89373,Weakness of orbicularis oculi muscle,effect__phenotype,HPO
+33754,Neonatal insulin-dependent diabetes mellitus,effect__phenotype,HPO
+5086,IRS1,gene__protein,NCBI
+34759,MIR17HG,gene__protein,NCBI
+93550,Pancreatic aplasia,effect__phenotype,HPO
+9723,IL19,gene__protein,NCBI
+15609,Aliskiren,drug,DrugBank
+14547,Penbutolol,drug,DrugBank
+84568,Narrow face,effect__phenotype,HPO
+6715,WFS1,gene__protein,NCBI
+62077,Mirex,exposure,CTD
+61881,alpha-Linolenic Acid,exposure,CTD
+34756,MIR200A,gene__protein,NCBI
+17345,Resorcinol,drug,DrugBank
+15001,Paliperidone,drug,DrugBank
+30204,renal cysts and diabetes syndrome,disease,MONDO
+6001,GRB14,gene__protein,NCBI
+17903,Vildagliptin,drug,DrugBank
+28821,acanthosis nigricans-insulin resistance-muscle cramps-acral enlargement syndrome,disease,MONDO
+26674,Osteoporosis,effect__phenotype,HPO
+1980,BRAF,gene__protein,NCBI
+14309,Levofloxacin,drug,DrugBank
+15026,Hydroxyprogesterone caproate,drug,DrugBank
+29228,Fanconi renotubular syndrome 4 with maturity-onset diabetes of the young,disease,MONDO
+34766,MIR1296,gene__protein,NCBI
+23158,Abdominal pain,effect__phenotype,HPO
+32976,primary microcephaly-mild intellectual disability-young-onset diabetes syndrome,disease,MONDO
+34220,MIR10B,gene__protein,NCBI
+85090,Fine hair,effect__phenotype,HPO
+61981,Dieldrin,exposure,CTD
+35217,ZFP57,gene__protein,NCBI
+85013,Unexplained fevers,effect__phenotype,HPO
+28478,autoimmune disease,disease,MONDO
+61684,"2,2',4,4'-tetrabromodiphenyl ether",exposure,CTD
+85063,Broad-based gait,effect__phenotype,HPO
+2983,IL10,gene__protein,NCBI
+20309,Etidocaine,drug,DrugBank
+16575,Nafarelin,drug,DrugBank
+97666,"hypopituitarism, congenital, with central diabetes insipidus",disease,MONDO
+2610,ST6GAL1,gene__protein,NCBI
+15133,Pindolol,drug,DrugBank
+87533,Decreased testicular size,effect__phenotype,HPO
+14455,Ertugliflozin,drug,DrugBank
+33887,MIR375,gene__protein,NCBI
+24252,Cerebellar atrophy,effect__phenotype,HPO
+22822,Abnormal heart morphology,effect__phenotype,HPO
+61882,Aluminum,exposure,CTD
+17173,Physostigmine,drug,DrugBank
+24616,Proximal amyotrophy,effect__phenotype,HPO
+35106,CASP12,gene__protein,NCBI
+31329,Donohue syndrome,disease,MONDO
+26689,Abnormal insulin level,effect__phenotype,HPO
+14681,Ademetionine,drug,DrugBank
+15012,Temsirolimus,drug,DrugBank
+61702,Air Pollutants,exposure,CTD
+17229,Cetirizine,drug,DrugBank
+20520,Omarigliptin,drug,DrugBank
+38857,mitochondrial oxidative phosphorylation disorder due to a point mutation of mitochondrial DNA,disease,MONDO
+14223,Risperidone,drug,DrugBank
+97056,diabetes mellitus type 2 associated cataract,disease,MONDO
+10074,KLF11,gene__protein,NCBI
+27386,polyendocrine-polyneuropathy syndrome,disease,MONDO
+35398,SUMO4,gene__protein,NCBI
+25622,Biliary tract abnormality,effect__phenotype,HPO
+61818,Trihalomethanes,exposure,CTD
+23002,Headache,effect__phenotype,HPO
+23049,Delayed myelination,effect__phenotype,HPO
+24312,Weakness of facial musculature,effect__phenotype,HPO
+24423,Blindness,effect__phenotype,HPO
+15999,Nepafenac,drug,DrugBank
+16004,Phenyl salicylate,drug,DrugBank
+7568,KCNJ11,gene__protein,NCBI
+116,CASP8,gene__protein,NCBI
+15155,Levobunolol,drug,DrugBank
+22259,Small face,effect__phenotype,HPO
+34267,MIR125B1,gene__protein,NCBI
+22759,Autosomal dominant inheritance,effect__phenotype,HPO
+34765,MIR939,gene__protein,NCBI
+34273,MIR181C,gene__protein,NCBI
+26083,Abnormal C-peptide level,effect__phenotype,HPO
+85386,Short nose,effect__phenotype,HPO
+20532,Sotagliflozin,drug,DrugBank
+22156,Abnormal renal morphology,effect__phenotype,HPO
+14149,Etonogestrel,drug,DrugBank
+38860,mitochondrial oxidative phosphorylation disorder due to a duplication of mitochondrial DNA,disease,MONDO
+15089,Codeine,drug,DrugBank
+14211,Estrone,drug,DrugBank
+22467,Abnormality of the endocrine system,effect__phenotype,HPO
+84586,Short philtrum,effect__phenotype,HPO
+23736,Weight loss,effect__phenotype,HPO
+61943,Chlorodiphenyl (54% Chlorine),exposure,CTD
+86939,Slowed slurred speech,effect__phenotype,HPO
+84721,Hypergonadotropic hypogonadism,effect__phenotype,HPO
+17831,Lithium carbonate,drug,DrugBank
+16057,Hyoscyamine,drug,DrugBank
+84363,Hyponatremia,effect__phenotype,HPO
+61714,beta-hexachlorocyclohexane,exposure,CTD
+22705,Aplasia__Hypoplasia of the cerebellum,effect__phenotype,HPO
+38158,hereditary ataxia,disease,MONDO
+61794,perfluorooctanoic acid,exposure,CTD
+16846,Oxymetazoline,drug,DrugBank
+6367,SLC19A2,gene__protein,NCBI
+14135,Lovastatin,drug,DrugBank
+5176,GSTM1,gene__protein,NCBI
+14638,Benzyl alcohol,drug,DrugBank
+34773,MIR4482,gene__protein,NCBI
+16802,Aurothioglucose,drug,DrugBank
+37065,neuroendocrine disease,disease,MONDO
+86366,Joint hyperflexibility,effect__phenotype,HPO
+34269,MIR142,gene__protein,NCBI
+12454,GLIS3,gene__protein,NCBI
+14115,Bismuth subsalicylate,drug,DrugBank
+1162,SMAD5,gene__protein,NCBI
+32772,central diabetes insipidus,disease,MONDO_grouped
+14257,Etacrynic acid,drug,DrugBank
+23143,Inability to walk,effect__phenotype,HPO
+17377,Phenol,drug,DrugBank
+1221,KCNQ1,gene__protein,NCBI
+1766,HHEX,gene__protein,NCBI
+24318,Gait ataxia,effect__phenotype,HPO
+62088,Nickel,exposure,CTD
+85249,Pathologic fracture,effect__phenotype,HPO
+22966,Dehydration,effect__phenotype,HPO
+14272,Formoterol,drug,DrugBank
+22307,Conductive hearing impairment,effect__phenotype,HPO
+1437,UBE2E2,gene__protein,NCBI
+15254,Levosalbutamol,drug,DrugBank
+15412,Histamine,drug,DrugBank
+14881,Phenylephrine,drug,DrugBank
+30438,H syndrome,disease,MONDO
+23173,Distal muscle weakness,effect__phenotype,HPO
+85052,Progressive cerebellar ataxia,effect__phenotype,HPO
+14140,Ziprasidone,drug,DrugBank
+34754,MIR144,gene__protein,NCBI
+85569,Neonatal onset,effect__phenotype,HPO
+15095,Timolol,drug,DrugBank
+15484,Sibutramine,drug,DrugBank
+14320,Dexamethasone,drug,DrugBank
+25393,Distal lower limb amyotrophy,effect__phenotype,HPO
+17230,Doxylamine,drug,DrugBank
+84663,Hypotelorism,effect__phenotype,HPO
+26566,Hyporeflexia of upper limbs,effect__phenotype,HPO
+9722,IRS2,gene__protein,NCBI
+24323,Horizontal nystagmus,effect__phenotype,HPO
+2481,CPT1A,gene__protein,NCBI
+15274,Benzphetamine,drug,DrugBank
+62156,Tin,exposure,CTD
+85067,Hyperuricemia,effect__phenotype,HPO
+7287,UCP2,gene__protein,NCBI
+34751,C2CD4A,gene__protein,NCBI
+24394,Pigmentary retinopathy,effect__phenotype,HPO
+10275,PCSK2,gene__protein,NCBI
+14950,Loratadine,drug,DrugBank
+15878,Mitiglinide,drug,DrugBank
+15331,Insulin aspart,drug,DrugBank
+85627,Stage 5 chronic kidney disease,effect__phenotype,HPO
+882,ATF3,gene__protein,NCBI
+88751,Absent gallbladder,effect__phenotype,HPO
+14296,Atazanavir,drug,DrugBank
+61769,monobutyl phthalate,exposure,CTD
+2072,S100A6,gene__protein,NCBI
+14561,Cholecalciferol,drug,DrugBank
+14342,Testosterone propionate,drug,DrugBank
+14477,Testosterone enanthate,drug,DrugBank
+22329,Coloboma,effect__phenotype,HPO
+4497,NOS3,gene__protein,NCBI
+33102,microcephalic primordial dwarfism-insulin resistance syndrome,disease,MONDO
+27483,SHORT syndrome,disease,MONDO
+2629,HMGA1,gene__protein,NCBI
+2825,RETN,gene__protein,NCBI
+35255,TRNE,gene__protein,NCBI
+84485,Nocturia,effect__phenotype,HPO
+61893,Antimony,exposure,CTD
+24613,Neonatal hypotonia,effect__phenotype,HPO
+22682,Cognitive impairment,effect__phenotype,HPO
+15074,Amphetamine,drug,DrugBank
+34755,MIR195,gene__protein,NCBI
+84512,Nephropathy,effect__phenotype,HPO
+84579,Mandibular prognathia,effect__phenotype,HPO
+14306,Pioglitazone,drug,DrugBank
+84619,Convex nasal ridge,effect__phenotype,HPO
+85095,Sparse pubic hair,effect__phenotype,HPO
+27658,stiff-person syndrome,disease,MONDO
+22379,Abnormal chorioretinal morphology,effect__phenotype,HPO
+61919,butylate,exposure,CTD
+13455,SLC2A2,gene__protein,NCBI
+84651,Undetectable electroretinogram,effect__phenotype,HPO
+88299,Overlapping fingers,effect__phenotype,HPO
+25974,Macroglossia,effect__phenotype,HPO
+15187,Nilotinib,drug,DrugBank
+91008,Delirium,effect__phenotype,HPO
+22652,Abnormality of limbs,effect__phenotype,HPO
+25381,Global developmental delay,effect__phenotype,HPO
+20303,Trolnitrate,drug,DrugBank
+93479,Multiple glomerular cysts,effect__phenotype,HPO
+20518,Teneligliptin,drug,DrugBank
+20299,Medetomidine,drug,DrugBank
+20521,Evogliptin,drug,DrugBank
+17124,Phylloquinone,drug,DrugBank
+85576,Prolonged partial thromboplastin time,effect__phenotype,HPO
+23225,Joint laxity,effect__phenotype,HPO
+15295,Triamterene,drug,DrugBank
+14327,Hydralazine,drug,DrugBank
+8682,HPX,gene__protein,NCBI
+24587,Ureteral duplication,effect__phenotype,HPO
+20308,Telavancin,drug,DrugBank
+22143,External genital hypoplasia,effect__phenotype,HPO
+20315,Articaine,drug,DrugBank
+24491,Type II diabetes mellitus,effect__phenotype,HPO
+85542,Difficulty climbing stairs,effect__phenotype,HPO
+14901,Naratriptan,drug,DrugBank
+84507,Horseshoe kidney,effect__phenotype,HPO
+23084,Macrotia,effect__phenotype,HPO
+35515,inborn errors of metabolism,disease,MONDO
+14582,Nadolol,drug,DrugBank
+13185,GCKR,gene__protein,NCBI
+7059,IL2RA,gene__protein,NCBI
+35764,kidney disease,disease,MONDO
+22939,Renal insufficiency,effect__phenotype,HPO
+15201,Dapagliflozin,drug,DrugBank
+23230,Recurrent respiratory infections,effect__phenotype,HPO
+38854,maternally-inherited mitochondrial myopathy,disease,MONDO
+89012,HbH hemoglobin,effect__phenotype,HPO
+61995,Docosahexaenoic Acids,exposure,CTD
+15847,Empagliflozin,drug,DrugBank
+20327,Hydroxyamphetamine,drug,DrugBank
+16076,Methacholine,drug,DrugBank
+34295,MIR423,gene__protein,NCBI
+14058,Diethylstilbestrol,drug,DrugBank
+23286,Aminoaciduria,effect__phenotype,HPO
+22258,Abnormal facial shape,effect__phenotype,HPO
+24259,Limb hypertonia,effect__phenotype,HPO
+85539,Shoulder girdle muscle weakness,effect__phenotype,HPO
+4579,FOXP3,gene__protein,NCBI
+84573,Full cheeks,effect__phenotype,HPO
+94176,Brisk reflexes,effect__phenotype,HPO
+61776,Nitrogen Dioxide,exposure,CTD
+15874,Ritodrine,drug,DrugBank
+16066,Brompheniramine,drug,DrugBank
+84720,Bicornuate uterus,effect__phenotype,HPO
+24643,Mitochondrial myopathy,effect__phenotype,HPO
+14645,Methionine,drug,DrugBank
+15987,Choline magnesium trisalicylate,drug,DrugBank
+14385,Liraglutide,drug,DrugBank
+85334,Glycosuria,effect__phenotype,HPO
+169,PAX6,gene__protein,NCBI
+23017,Cerebral atrophy,effect__phenotype,HPO
+3819,INPPL1,gene__protein,NCBI
+35907,eye degenerative disease,disease,MONDO
+35655,autosomal dominant disease,disease,MONDO
+84620,Wide nose,effect__phenotype,HPO
+85002,Acute kidney injury,effect__phenotype,HPO
+23488,Myopathy,effect__phenotype,HPO
+92862,Decreased serum testosterone level,effect__phenotype,HPO
+13273,CCDC92,gene__protein,NCBI
+22831,Arrhythmia,effect__phenotype,HPO
+17237,Desloratadine,drug,DrugBank
+20318,Sulfacetamide,drug,DrugBank
+14972,Disulfiram,drug,DrugBank
+24291,Progressive neurologic deterioration,effect__phenotype,HPO
+87637,Difficulty running,effect__phenotype,HPO
+84484,Hypoplasia of the uterus,effect__phenotype,HPO
+5056,HBA1,gene__protein,NCBI
+87589,Severe postnatal growth retardation,effect__phenotype,HPO
+14527,Fluoxymesterone,drug,DrugBank
+14030,Prednisolone,drug,DrugBank
+22369,Developmental glaucoma,effect__phenotype,HPO
+89565,Narrow nasal base,effect__phenotype,HPO
+22493,Insulin-resistant diabetes mellitus,effect__phenotype,HPO
+772,RELA,gene__protein,NCBI
+16536,Racepinephrine,drug,DrugBank
+14215,Losartan,drug,DrugBank
+665,TNFRSF1A,gene__protein,NCBI
+15492,Estramustine,drug,DrugBank
+15282,Insulin lispro,drug,DrugBank
+61939,Chlorides,exposure,CTD
+93560,Glomerulopathy,effect__phenotype,HPO
+22869,Vestibular dysfunction,effect__phenotype,HPO
+22277,Micrognathia,effect__phenotype,HPO
+12479,BHMT,gene__protein,NCBI
+24444,Optic atrophy,effect__phenotype,HPO
+14435,Insulin degludec,drug,DrugBank
+1414,AQP2,gene__protein,NCBI
+14142,Metoprolol,drug,DrugBank
+14023,Triamcinolone,drug,DrugBank
+14956,Carbamazepine,drug,DrugBank
+14579,Nitazoxanide,drug,DrugBank
+22998,Gait disturbance,effect__phenotype,HPO
+33929,MIR30A,gene__protein,NCBI
+33897,MIR98,gene__protein,NCBI
+1741,C3,gene__protein,NCBI
+23038,Impaired vibratory sensation,effect__phenotype,HPO
+15583,Halcinonide,drug,DrugBank
+22675,Intellectual disability,effect__phenotype,HPO
+14304,Tolbutamide,drug,DrugBank
+30213,"photomyoclonus, diabetes mellitus, deafness, nephropathy, and cerebral dysfunction",disease,MONDO
+24608,Intrauterine growth retardation,effect__phenotype,HPO
+85136,Hypoplasia of the brainstem,effect__phenotype,HPO
+61748,glyphosate,exposure,CTD
+84495,Scrotal hypoplasia,effect__phenotype,HPO
+84959,Achilles tendon contracture,effect__phenotype,HPO
+98053,monogenic diabetes,disease,MONDO
+62157,Titanium,exposure,CTD
+22457,Peripheral neuropathy,effect__phenotype,HPO
+14174,Acitretin,drug,DrugBank
+749,VEGFA,gene__protein,NCBI
+38530,inherited renal tubular disease,disease,MONDO
+20328,Methenamine,drug,DrugBank
+17064,Meprobamate,drug,DrugBank
+25399,Clonus,effect__phenotype,HPO
+23544,Myalgia,effect__phenotype,HPO
+61934,Cesium,exposure,CTD
+11887,USP48,gene__protein,NCBI
+15753,Miglitol,drug,DrugBank
+61759,Manganese,exposure,CTD
+17246,Clofedanol,drug,DrugBank
+5963,AVP,gene__protein,NCBI
+14203,Medroxyprogesterone acetate,drug,DrugBank
+2384,CRP,gene__protein,NCBI
+23179,Malabsorption,effect__phenotype,HPO
+15153,Acebutolol,drug,DrugBank
+4465,OGG1,gene__protein,NCBI
+61761,Metals,exposure,CTD
+23471,Kyphoscoliosis,effect__phenotype,HPO
+35105,C1QTNF6,gene__protein,NCBI
+16689,Moexipril,drug,DrugBank
+1129,TCF7L2,gene__protein,NCBI
+16306,Pentoxyverine,drug,DrugBank
+61815,Tobacco Smoke Pollution,exposure,CTD
+26180,Autosomal recessive inheritance,effect__phenotype,HPO
+86311,Decreased numbers of nephrons,effect__phenotype,HPO
+89189,Reduced sperm motility,effect__phenotype,HPO
+33327,Berardinelli-Seip congenital lipodystrophy,disease,MONDO
+7021,DGKD,gene__protein,NCBI
+61782,Ozone,exposure,CTD
+33971,MIR487B,gene__protein,NCBI
+15104,Dextromethorphan,drug,DrugBank
+15503,Fosamprenavir,drug,DrugBank
+87271,Pes valgus,effect__phenotype,HPO
+85561,Infantile onset,effect__phenotype,HPO
+23880,Portal hypertension,effect__phenotype,HPO
+61878,Aldrin,exposure,CTD
+22157,Abnormality of the genital system,effect__phenotype,HPO
+27082,Retinopathy,effect__phenotype,HPO
+34750,TMEM155,gene__protein,NCBI
+15451,Bisoprolol,drug,DrugBank
+22128,Functional abnormality of the bladder,effect__phenotype,HPO
+26178,Transposition of the great arteries,effect__phenotype,HPO
+15167,Antipyrine,drug,DrugBank
+61792,perfluorononanoic acid,exposure,CTD
+14159,Ipratropium,drug,DrugBank
+14990,Chlorpheniramine,drug,DrugBank
+29933,"obsolete diabetes insipidus, neurohypophyseal type, X-linked inheritance",disease,MONDO
+119,ETS1,gene__protein,NCBI
+17949,Albiglutide,drug,DrugBank
+20513,Gemigliptin,drug,DrugBank
+39203,pituitary deficiency,disease,MONDO
+1151,NFKB1,gene__protein,NCBI
+373,NOS2,gene__protein,NCBI
+34757,MIR203A,gene__protein,NCBI
+84608,Progressive sensorineural hearing impairment,effect__phenotype,HPO
+14034,Budesonide,drug,DrugBank
+23994,Hypoplasia of the zygomatic bone,effect__phenotype,HPO
+23135,Dysarthria,effect__phenotype,HPO
+15180,Fusidic acid,drug,DrugBank
+14184,Ritonavir,drug,DrugBank
+35458,autosomal recessive disease,disease,MONDO
+97684,"diabetes mellitus, insulin-dependent, X-linked, susceptibility to",disease,MONDO
+15774,Ketorolac,drug,DrugBank
+34769,MIR1301,gene__protein,NCBI
+85940,Elevated amniotic fluid alpha-fetoprotein,effect__phenotype,HPO
+22952,Fever,effect__phenotype,HPO
+86999,Atrophy__Degeneration affecting the brainstem,effect__phenotype,HPO
+35068,CEL,gene__protein,NCBI
+94172,Hyperactive deep tendon reflexes,effect__phenotype,HPO
+30336,ectodermal dysplasia syndrome,disease,MONDO_grouped
+15778,Tolazamide,drug,DrugBank
+25568,Oligodontia,effect__phenotype,HPO
+30063,pancreatic hypoplasia-diabetes-congenital heart disease syndrome,disease,MONDO
+11523,LEP,gene__protein,NCBI
+22300,Abnormality of the antihelix,effect__phenotype,HPO
+19551,Tromethamine,drug,DrugBank
+25520,Lethargy,effect__phenotype,HPO
+84764,Osteopenia,effect__phenotype,HPO
+14134,Nelfinavir,drug,DrugBank
+17560,Orciprenaline,drug,DrugBank
+14966,Amprenavir,drug,DrugBank
+94845,"microvascular complications of diabetes, susceptibility to",disease,MONDO_grouped
+34768,MIR1226,gene__protein,NCBI
+5370,IER3IP1,gene__protein,NCBI
+31917,proximal tubulopathy-diabetes mellitus-cerebellar ataxia syndrome,disease,MONDO
+20377,Benzoyl peroxide,drug,DrugBank
+62108,Phorate,exposure,CTD
+15479,Salbutamol,drug,DrugBank
+99453,gestational diabetes insipidus,disease,MONDO
+34312,MIR744,gene__protein,NCBI
+36673,syndromic genetic deafness,disease,MONDO
+36253,impaired renal function disease,disease,MONDO
+89101,Sternocleidomastoid amyotrophy,effect__phenotype,HPO
+84633,Short neck,effect__phenotype,HPO
+88020,Nephrogenic diabetes insipidus,effect__phenotype,HPO
+85559,Late onset,effect__phenotype,HPO
+61701,Agent Orange,exposure,CTD
+7489,HP,gene__protein,NCBI
+11881,SLC22A3,gene__protein,NCBI
+26258,Exotropia,effect__phenotype,HPO
+61762,Methylmercury Compounds,exposure,CTD
+23300,Abnormality of mitochondrial metabolism,effect__phenotype,HPO
+7384,CCL20,gene__protein,NCBI
+34762,MIR377,gene__protein,NCBI
+4536,INSR,gene__protein,NCBI
+15796,Glibornuride,drug,DrugBank
+61974,Diazinon,exposure,CTD
+22453,Neurodevelopmental delay,effect__phenotype,HPO
+22903,Gout,effect__phenotype,HPO
+62055,Magnesium,exposure,CTD
+23949,Aplasia__Hypoplasia of the gallbladder,effect__phenotype,HPO
+36010,glucose metabolism disease,disease,MONDO
+27834,autoimmune polyendocrine,disease,MONDO_grouped
+14263,Salmeterol,drug,DrugBank
+15956,Dyphylline,drug,DrugBank
+62047,Indium,exposure,CTD
+23053,Motor delay,effect__phenotype,HPO
+34767,MIR1228,gene__protein,NCBI
+90774,1-minute APGAR score of 0,effect__phenotype,HPO
+15273,Nitrofurantoin,drug,DrugBank
+23886,Pulmonary artery stenosis,effect__phenotype,HPO
+62022,Gallium,exposure,CTD
+38244,diabetes insipidus,disease,MONDO
+33958,MIR222,gene__protein,NCBI
+84951,Pancreatic cysts,effect__phenotype,HPO
+14059,Liothyronine,drug,DrugBank
+84887,Heterogeneous,effect__phenotype,HPO
+85161,Poor speech,effect__phenotype,HPO
+15460,Azatadine,drug,DrugBank
+34763,MIR485,gene__protein,NCBI
+14941,Amcinonide,drug,DrugBank
+33086,intrauterine growth restriction-short stature-early adult-onset diabetes syndrome,disease,MONDO
+26162,Confusion,effect__phenotype,HPO
+30188,"diabetes insipidus, nephrogenic, X-linked",disease,MONDO
+20472,Lactulose,drug,DrugBank
+20278,Buformin,drug,DrugBank
+213,INS,gene__protein,NCBI
+15078,Tramadol,drug,DrugBank
+22171,Renal tubular dysfunction,effect__phenotype,HPO
+94317,Hypoplastic tricuspid valve,effect__phenotype,HPO
+62074,metribuzin,exposure,CTD
+15176,Everolimus,drug,DrugBank
+34752,KCNU1,gene__protein,NCBI
+1760,POMC,gene__protein,NCBI
+14050,Prednisolone acetate,drug,DrugBank
+84885,X-linked recessive inheritance,effect__phenotype,HPO
+22984,Feeding difficulties in infancy,effect__phenotype,HPO
+84569,Long face,effect__phenotype,HPO
+24641,Infantile muscular hypotonia,effect__phenotype,HPO
+20515,Luseogliflozin,drug,DrugBank
+14329,Insulin detemir,drug,DrugBank
+14230,Tetracycline,drug,DrugBank
+10780,KCNK16,gene__protein,NCBI
+61754,Insecticides,exposure,CTD
+24442,Rod-cone dystrophy,effect__phenotype,HPO
+14152,Chlorthalidone,drug,DrugBank
+14792,Paclitaxel,drug,DrugBank
+39716,primary polydipsia,disease,MONDO
+22840,Arterial stenosis,effect__phenotype,HPO
+97779,"diabetes mellitus, congenital autoimmune",disease,MONDO
